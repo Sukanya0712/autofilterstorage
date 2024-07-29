@@ -102,7 +102,7 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'earn4share.online')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'viplinkshortx.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '75733a64cd0ea9b0dd6081259d36266e7c361217')
 
 # Others
